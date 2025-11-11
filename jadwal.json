@@ -1,0 +1,86 @@
+[
+  {
+    "nama_jadwal": "jam 1 (Senin-Kamis + Sabtu-Minggu)",
+    "hari_array": [1, 2, 3, 4, 6, 7],
+    "jam": "07:30",
+    "file_mp3": "jam1.mp3"
+  },
+  {
+    "nama_jadwal": "jam 2 (Senin-Kamis + Sabtu)",
+    "hari_array": [1, 2, 3, 4, 6],
+    "jam": "08:00",
+    "file_mp3": "jam2.mp3"
+  },
+  {
+    "nama_jadwal": "jam 3 (Senin-Kamis + Sabtu)",
+    "hari_array": [1, 2, 3, 4, 6],
+    "jam": "08:30",
+    "file_mp3": "jam3.mp3"
+  },
+  {
+    "nama_jadwal": "jam 4 (Senin-Kamis + Sabtu)",
+    "hari_array": [1, 2, 3, 4, 6],
+    "jam": "09:00",
+    "file_mp3": "jam4.mp3"
+  },
+  {
+    "nama_jadwal": "istirahat (Senin-Kamis + Sabtu)",
+    "hari_array": [1, 2, 3, 4, 6],
+    "jam": "09:30",
+    "file_mp3": "istirahat.mp3"
+  },
+  {
+    "nama_jadwal": "pulang (Minggu)",
+    "hari_array": [7],
+    "jam": "09:30",
+    "file_mp3": "akhir.mp3"
+  },
+  {
+    "nama_jadwal": "istirahat kurang 5 menit (Senin-Kamis + Sabtu)",
+    "hari_array": [1, 2, 3, 4, 6],
+    "jam": "10:05",
+    "file_mp3": "istirahat5.mp3"
+  },
+  {
+    "nama_jadwal": "jam 5 (Senin-Kamis + Sabtu)",
+    "hari_array": [1, 2, 3, 4, 6],
+    "jam": "10:10",
+    "file_mp3": "jam5.mp3"
+  },
+  {
+    "nama_jadwal": "jam 6 (Senin-Kamis + Sabtu)",
+    "hari_array": [1, 2, 3, 4, 6],
+    "jam": "10:40",
+    "file_mp3": "jam6.mp3"
+  },
+  {
+    "nama_jadwal": "jam 7 (Senin-Kamis + Sabtu)",
+    "hari_array": [1, 2, 3, 4, 6],
+    "jam": "11:10",
+    "file_mp3": "jam7.mp3"
+  },
+  {
+    "nama_jadwal": "jam 8 (Senin-Kamis + Sabtu)",
+    "hari_array": [1, 2, 3, 4, 6],
+    "jam": "11:40",
+    "file_mp3": "jam8.mp3"
+  },
+  {
+    "nama_jadwal": "jam 9 (Senin-Kamis + Sabtu)",
+    "hari_array": [1, 2, 3, 4, 6],
+    "jam": "12:10",
+    "file_mp3": "jam9.mp3"
+  },
+  {
+    "nama_jadwal": "jam 10 (Senin-Kamis + Sabtu)",
+    "hari_array": [1, 2, 3, 4, 6],
+    "jam": "12:40",
+    "file_mp3": "jam10.mp3"
+  },
+  {
+    "nama_jadwal": "pulang (Senin-Kamis + Sabtu)",
+    "hari_array": [1, 2, 3, 4, 6],
+    "jam": "13:10",
+    "file_mp3": "akhir.mp3"
+  }
+]
